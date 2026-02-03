@@ -1,5 +1,6 @@
 # CampusVoice
 A scalable web platform that enables students to raise campus complaints virtually, track resolution status, and improve transparency between students and administration.
+
 📌 Project Name: CampusVoice
 
 CampusVoice is a scalable, cloud-based web platform designed to solve real-world
